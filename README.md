@@ -1,4 +1,4 @@
-# Hospitality-Domain-Project
+# Hospitality-Domain-Project -Power BI & SQL
 In the fast-paced world of luxury hotels, AtliQ Grands faced revenue challenges that threatened its market share. As an aspiring Data Analyst, I embarked on a journey to transform the fortunes of this prestigious 5-star hotel chain in India.
 
 Here's a quick glimpse of some noteworthy facts about AtliQ Grands:
