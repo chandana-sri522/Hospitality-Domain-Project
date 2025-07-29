@@ -20,3 +20,5 @@ dim_hotels - This table provided crucial details about the properties, including
 dim_rooms - This table included information about room IDs and room classes. We used this data to analyze which types of rooms were more popular or profitable.
 
 fact_aggregated_bookings - This fact table contained data related to property ID, check-in dates, room categories, successful bookings, and capacity. It served as a crucial source for calculating key metrics related to bookings and occupancy.
+
+Live Report: https://app.powerbi.com/view?r=eyJrIjoiNzhlMzBmMGYtMmE3YS00YzYxLWIyMTYtNThjNmYwOGY5ZjhmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
